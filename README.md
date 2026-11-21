@@ -72,7 +72,7 @@ if __name__ == "__main__":
     main()
 
 ## Output
-    <img width="427" height="448" alt="image" src="https://github.com/user-attachments/assets/b4861e03-2294-4e63-9cb5-513014e86878" />
+  <img width="427" height="448" alt="image" src="https://github.com/user-attachments/assets/b4861e03-2294-4e63-9cb5-513014e86878" />
     
 
 ## ✅ Result
